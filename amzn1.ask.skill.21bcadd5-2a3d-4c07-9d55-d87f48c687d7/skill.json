@@ -1,0 +1,50 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-west-2:954656051741:function:21bcadd5-2a3d-4c07-9d55-d87f48c687d7:Release_0"
+        },
+        "interfaces": [],
+        "regions": {
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:954656051741:function:21bcadd5-2a3d-4c07-9d55-d87f48c687d7:Release_0"
+            }
+          },
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:954656051741:function:21bcadd5-2a3d-4c07-9d55-d87f48c687d7:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:954656051741:function:21bcadd5-2a3d-4c07-9d55-d87f48c687d7:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "locales": {
+        "es-ES": {
+          "description": "Pida datos espaciales y aprenda sobre los planetas y el universo. Curiosidades del Espacio proporciona diversión que toda la familia puede disfrutar y está garantizado para hacerte más inteligente. Para empezar, simplemente di «Alexa, abre curiosidades del espacio» o «Alexa, lanza curiosidades del espacio» para obtener un hecho». En cualquier momento, puede parar diciendo «Alexa, detente»",
+          "examplePhrases": [
+            "Alexa abre curiosidades del espacio"
+          ],
+          "keywords": [
+            "espacio",
+            "datos"
+          ],
+          "name": "Curiosidades deportes",
+          "summary": "Aprenda datos divertidos sobre el espacio."
+        },
+        "en-GB": {
+          "name": "Curiosidades deportes"
+        }
+      }
+    }
+  }
+}
