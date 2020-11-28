@@ -1,0 +1,42 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "curiosidades de deportes",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewFactIntentSports",
+          "slots": [],
+          "samples": [
+            "dame un dato de deportes",
+            "un dato",
+            "un dato de deportes",
+            "dime un dato",
+            "dime un dato de deportes",
+            "dame un dato",
+            "dime una",
+            "dime algo",
+            "dime una curiosidad"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "2"
+}
